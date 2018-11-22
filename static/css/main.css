@@ -1,9 +1,8 @@
 body {
   background: url("/static/img/subtle_dots.png");
   line-height: 2em;
-  font-weight: 200;
-  font-size: 13px;
-  color: #111;
+  font-weight: 300;
+  color: #101010;
 }
 hr {
   margin-top: 20px;
