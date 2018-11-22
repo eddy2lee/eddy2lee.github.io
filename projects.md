@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Projects
+title: 项目
 permalink: /projects/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
+正整理中...
