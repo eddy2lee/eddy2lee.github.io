@@ -15,30 +15,18 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/eddy2lee"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/eddy2lee"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
       link: "https://github.com/eddy2lee"
 
-share:
-  twitter_username: eddy2lee
-  fb_appid: 1749788565247320
-
 urls:
-    - text: About Me
+    - text: "关于我"
       url: /about/
-    - text: My Projects
+    - text: "我的项目"
       url: /projects/
-    - text: XML Feed
+    - text: "RSS订阅"
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "http://eddylee.cc"
 baseurl: ""
 paginate: 20
 per_page: 20
