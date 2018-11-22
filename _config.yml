@@ -2,7 +2,7 @@ title: "我的技术栈"
 description: "用技术撑起这片天"
 author: "李春华"
 github: https://github.com/eddy2lee
-about: 自由开发者，主专注于互联网全栈开发、NodeJs、PHP以及前端应用等"
+about: 我是自由开发者，专注于NodeJs全栈、PHP全栈以及H5应用等开发"
 disqus_shortname: eddylee
 avatar_url: /static/img/avatar.jpg
 
@@ -18,16 +18,16 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/eddy2lee"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/eddy2lee"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/eddy2lee"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: eddy2lee
   fb_appid: 1749788565247320
 
 urls:
