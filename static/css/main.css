@@ -72,7 +72,6 @@ footer {
   margin-top: 10px;
   margin-bottom: 3em;
   padding-top: 10px;
-  color: #C2C2C2;
   font-size: 11px;
   bottom: 0;
   padding-bottom: 10px;
@@ -180,7 +179,10 @@ div.col-sm-3 img.profile-avatar {
 }
 
 .form-control::-webkit-input-placeholder{
-  color:#002200;
+  color:#006600;
 }
 
+.fa:before {
+  color: #00dd00;
+}
 
