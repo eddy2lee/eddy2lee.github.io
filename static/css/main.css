@@ -5,7 +5,7 @@ body {
   color: #00cc00;
 }
 .bg {
-  background-image: url(https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3168206521,559754630&fm=26&gp=0.jpg);
+  background-image: url(/static/img/bg.jpg);
     position: fixed;
     top: 0;
     left: 0;
