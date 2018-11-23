@@ -20,7 +20,7 @@
 
 ### 我爱折腾 ###
 
-爱折腾各种各样的东西，跟计算机不有关的，跟计算机没关的，觉得可以学到好多知识。。。
+爱折腾各种各样的东西，跟计算机机没关的，跟计算机有关的，觉得可以学到好多知识。。。
 我很喜欢将手下的创造发挥到极致，享受那种从无到有，从粗糙到细致，渐渐趋近完美的的过程。
 我爱折腾，编程的世界刚好需要各种折腾，因为它总是充满着各种数都数不清的挑战 从最开始的汇编 VB Asp.Net Java C C++ C# PHP 到后来Html+Js+CSS H5 Python NodeJs Lua Ruby Golang，数据库有Sql Server Oracle Mysql Postgresql Mongodb 各种NoSql等，还有当前时毛的Docker, 各种DevOpt工具, 还有VR AR, 最后再ioT BigData， AI、Cloud，Blockchain等等等等。
 
