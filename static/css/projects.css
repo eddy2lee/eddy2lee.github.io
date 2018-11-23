@@ -67,7 +67,8 @@ span.tag-cloud {
   display: inline;
 }
 .tag-cloud.active {
-  background: #ccc;
+  background: #004400;
+  border-radius: 4px;
 }
 .project-item.not-show {
   display: none;
