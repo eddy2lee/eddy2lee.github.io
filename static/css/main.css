@@ -5,17 +5,17 @@ body {
   color: #00cc00;
 }
 .bg {
-  background-image: url(https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3195770424,292834249&fm=26&gp=0.jpg);
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  filter: blur(5px);
-  -webkit-filter:blur(5px);
-  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='5');
-  background-size: cover;
-  opacity: .13;
+  background-image: url(https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3168206521,559754630&fm=26&gp=0.jpg);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='5');
+    background-size: cover;
+    opacity: 0.08;
 }
 hr {
   margin-top: 20px;
