@@ -1,5 +1,5 @@
 body {
-  background: #000700;
+  background: #000800;
   line-height: 2em;
   font-weight: 300;
   color: #00cc00;
@@ -17,7 +17,7 @@ span.time, span.categories {
   font-size: 11px;
 }
 h1, h2, h3 {
-  color: #00cc00;
+  color: #00AF00;
   font-weight: normal;
   text-shadow: 1px 1px 1px #003300;
 }
@@ -41,6 +41,7 @@ a:hover {
 
 /* Layout */
 .main-layout {
+  background:#001000;
 }
 .sidebar-nav {
   margin: 0;
