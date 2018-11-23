@@ -29,7 +29,9 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #00ff00;
+  color: #00cc00;
+  text-shadow: 0 0 12px #00ff00;
+  font-size: 15px;
 }
 a:hover {
   color: #00ff00;
