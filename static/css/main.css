@@ -253,3 +253,8 @@ h3, .h3 {
 .search__result-date {
   display:none;
 }
+
+/*post*/
+code {
+  background:transparent;
+}
