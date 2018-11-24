@@ -80,7 +80,7 @@ div.content pre {
   font-size: 12px;
   border: none;
 }
-div.content .highlight {
+div.content .highlight, div.highlight div.content pre {
   background: #002000;
 }
 footer {
