@@ -3,10 +3,9 @@ layout: page
 title: 关于我
 permalink: /about/
 ---
-
-<code>
+```
 男，八零头七零尾，自学学历，工作经验17年有余。我是一名互联网产品开发者, 工目前专注于NodeJs全栈、PHP全栈以及 VUE APP 等应用开发...
-</code>
+```
 
 ### 欢迎走进我的世界
 
