@@ -259,3 +259,9 @@ code {
   background: #002000;
   color: #00ff00;
 }
+
+pre {
+  color: #00ff00;
+  background-color: #002000;
+  border: 1px solid #003000;
+}
