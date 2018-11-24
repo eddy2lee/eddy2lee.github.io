@@ -21,8 +21,8 @@ social:
 urls:
     - text: "关于我"
       url: /about/
-    - text: "我的项目"
-      url: /projects/
+    #- text: "我的项目"
+    #  url: /projects/
     - text: "RSS订阅"
       url: /feed.xml
 
