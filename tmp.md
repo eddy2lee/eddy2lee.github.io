@@ -6,4 +6,4 @@ https://hexo.io/docs/front-matter.html
 
 https://gems.ruby-china.com/
 
-https://github.com/envygeeks/jekyll-docker/blob/master/README.md
+https://hub.docker.com/r/bretfisher/jekyll-serve/
