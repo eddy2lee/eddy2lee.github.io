@@ -4,4 +4,4 @@ title: 我的简历
 permalink: /resume/
 ---
 
-test2333555
+https://eddylee.cc/about/
